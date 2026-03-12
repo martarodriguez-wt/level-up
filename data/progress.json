@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "name": null,
+    "role": null,
+    "level": null,
+    "started": null,
+    "currentTier": 1,
+    "streak": 0,
+    "lastSession": null,
+    "totalCompleted": 0
+  },
+  "completedLessons": [],
+  "skippedLessons": [],
+  "deferredLessons": [],
+  "knownSetup": {
+    "agents": 0,
+    "commands": 0,
+    "skills": 0,
+    "plugins": 0,
+    "mcps": [],
+    "hasRootClaudeMd": false,
+    "hasCustomHooks": false,
+    "hasKeybindings": false,
+    "scheduledTasks": []
+  },
+  "discoveryState": {
+    "lastWebResearch": null,
+    "lastChangelogCheck": null,
+    "pendingDiscoveries": 0
+  }
+}

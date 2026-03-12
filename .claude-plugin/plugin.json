@@ -1,0 +1,19 @@
+{
+  "name": "level-up",
+  "version": "1.0.0",
+  "description": "Personal Claude Code learning assistant. Progressive, task-driven lessons that teach through real work — not tutorials. Tracks progress, adapts to your level, and stays current with new features.",
+  "author": {
+    "name": "Marta Rodriguez",
+    "url": "https://github.com/martarodriguez-wt"
+  },
+  "repository": "https://github.com/martarodriguez-wt/level-up",
+  "license": "MIT",
+  "keywords": [
+    "learning",
+    "productivity",
+    "coaching",
+    "claude-code",
+    "progressive",
+    "personalized"
+  ]
+}

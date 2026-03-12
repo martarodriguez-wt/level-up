@@ -1,0 +1,22 @@
+{
+  "lastRefresh": null,
+  "sources": {
+    "priority1": [
+      {"name": "Anthropic Changelog", "url": "https://docs.anthropic.com/en/docs/changelog", "type": "official"},
+      {"name": "Claude Code Docs", "url": "https://code.claude.com/changelog", "type": "official"},
+      {"name": "Agentic Coding", "url": "https://agenticcoding.substack.com", "type": "community"},
+      {"name": "CC for PMs", "url": "https://ccforpms.com", "type": "community"},
+      {"name": "YK Dojo", "url": "https://github.com/ykdojo/claude-code-tips", "type": "community"}
+    ],
+    "influencers": [
+      "Lenny Rachitsky",
+      "Aakash Gupta",
+      "Carl Vellotti",
+      "Allie K Miller",
+      "Ethan Mollick",
+      "Andrej Karpathy",
+      "Addy Osmani"
+    ]
+  },
+  "discoveries": []
+}
