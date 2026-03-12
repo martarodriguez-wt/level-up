@@ -1,0 +1,14 @@
+{
+  "name": "martarodriguez-wt-level-up",
+  "owner": {
+    "name": "Marta Rodriguez",
+    "url": "https://github.com/martarodriguez-wt"
+  },
+  "plugins": [
+    {
+      "name": "level-up",
+      "source": "./",
+      "description": "Personal Claude Code learning assistant. Progressive, task-driven lessons that teach through real work."
+    }
+  ]
+}
